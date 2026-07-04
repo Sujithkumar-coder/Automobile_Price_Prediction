@@ -1,0 +1,11 @@
+symboling,normalized_losses,make,fuel_type,aspiration,num_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price
+3,95,audi,gas,std,four,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,ohc,four,109,mpfi,3.19,3.4,10,102,5500,24,30,13950
+3,95,audi,gas,std,two,hatchback,4wd,front,99.4,176.6,66.4,54.3,2337,ohc,four,109,mpfi,3.19,3.4,10,102,5500,24,30,17450
+2,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,17710
+2,95,audi,gas,std,four,sedan,4wd,front,99.5,178.2,67.9,52,2823,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,18920
+1,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,23875
+2,95,audi,gas,std,four,wagon,fwd,front,105.8,192.7,71.4,55.7,3086,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,17859
+1,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,16430
+1,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,15985
+1,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,16925
+2,95,audi,gas,std,four,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,six,136,mpfi,3.19,3.4,8.5,110,5500,19,25,20970
